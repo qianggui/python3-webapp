@@ -1,1 +1,1 @@
-### This project is used for learning python
+### This is a web project written in Python3
